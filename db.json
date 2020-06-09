@@ -53,6 +53,11 @@
     {
       "quoteId": 2,
       "id": 11
+    },
+    {
+      "quote": "test",
+      "author": "roxy",
+      "id": 12
     }
   ],
   "likes": [
@@ -60,6 +65,30 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 1,
+      "id": 2
+    },
+    {
+      "quoteId": 2,
+      "id": 3
+    },
+    {
+      "quoteId": 3,
+      "id": 4
+    },
+    {
+      "quoteId": 3,
+      "id": 5
+    },
+    {
+      "quoteId": 4,
+      "id": 6
+    },
+    {
+      "quoteId": 5,
+      "id": 7
     }
   ]
 }
